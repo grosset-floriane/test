@@ -1,0 +1,1609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_S",
+				"_SESSION  (variable)"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"fo",
+				"for	for …"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"str_",
+				"str_shuffle"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"font-",
+				"font-size:   (property)"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border-",
+				"border-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"padi",
+				"padding-right"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"v",
+				"video	Tag"
+			],
+			[
+				"u",
+				"line-through"
+			],
+			[
+				"a",
+				"aside	Tag"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"l",
+				"inherit  (value)"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"b",
+				"br	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"ne",
+				"newWidth"
+			],
+			[
+				"he",
+				"heightView"
+			],
+			[
+				"w",
+				"widthView"
+			],
+			[
+				"wi",
+				"widthView"
+			],
+			[
+				"new",
+				"newHeight  (variable)"
+			],
+			[
+				"hei",
+				"heightView"
+			],
+			[
+				"s",
+				"scale  (variable)"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"inpu",
+				"inputScale"
+			],
+			[
+				"fol",
+				"folder"
+			],
+			[
+				"err",
+				"error_log"
+			],
+			[
+				"inter",
+				"interval"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"input",
+				"inputInterval"
+			],
+			[
+				"as",
+				"assetsRouteCss"
+			],
+			[
+				"text_",
+				"text_custom_folder_options"
+			],
+			[
+				"cust",
+				"customFolderCtn"
+			],
+			[
+				"js",
+				"jsonResult"
+			],
+			[
+				"Op",
+				"optionsCtn  (namespace)"
+			],
+			[
+				"ct",
+				"pauseIconCtn  (variable)"
+			],
+			[
+				"paus",
+				"pauseIcon"
+			],
+			[
+				"pa",
+				"pauseIconCtn  (variable)"
+			],
+			[
+				"pau",
+				"pauseIconCtn"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"lo",
+				"loadingCtn"
+			],
+			[
+				"btn",
+				"btnPauseOptions"
+			],
+			[
+				"bt",
+				"btnStopOptions"
+			],
+			[
+				"opt",
+				"optionsCtn"
+			],
+			[
+				"options",
+				"optionsCtn"
+			],
+			[
+				"inf",
+				"infoCtn"
+			],
+			[
+				"info",
+				"info"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"bui",
+				"buildInCtn"
+			],
+			[
+				"ctn_",
+				"ctn_options"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ve",
+				"viewDimension"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"res",
+				"resizeTimeout"
+			],
+			[
+				"re",
+				"resizeTimeout"
+			],
+			[
+				"ri",
+				"resizeTimeout"
+			],
+			[
+				"set",
+				"setViewDimension  (function)"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"vi",
+				"viewDimension  (namespace)"
+			],
+			[
+				"vie",
+				"viewDimension"
+			],
+			[
+				"ke",
+				"keyPressed"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"Da",
+				"DiapoShuffle"
+			],
+			[
+				"diapo",
+				"diapoShuffle_view"
+			],
+			[
+				"le",
+				"levelCurent"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"fi",
+				"fileName"
+			],
+			[
+				"fil",
+				"file"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"nb",
+				"nbTry"
+			],
+			[
+				"pre",
+				"preg_match"
+			],
+			[
+				"has",
+				"hasFolder"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"li",
+				"listDir"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"Ma",
+				"mandatory_fields_missing"
+			],
+			[
+				"get",
+				"getRandomPic_s"
+			],
+			[
+				"mes",
+				"messageContainer"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"option",
+				"optionsContainer"
+			],
+			[
+				"jquer",
+				"jquery-ui"
+			],
+			[
+				"whe",
+				"whereResult"
+			],
+			[
+				"mee",
+				"meetingTemp"
+			],
+			[
+				"des",
+				"descriptionFile"
+			],
+			[
+				"al",
+				"alpha"
+			],
+			[
+				"R",
+				"ROOT_DIR"
+			],
+			[
+				"id",
+				"idFichier"
+			],
+			[
+				"to",
+				"toggle"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"selected_items":
+		[
+			[
+				"linter",
+				"SublimeLinter: Reset"
+			],
+			[
+				"linte",
+				"SublimeLinter: Reset"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"control",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site html seulement/Pages formelles/Pages d'erreurs/error.css",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Pages formelles/Pages d'erreur/404-not_found.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Pages formelles/Pages d'erreur/302-moved_permanently.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Pages formelles/Pages d'erreur/401-authorization_required.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Pages formelles/Pages d'erreur/402-payment_required.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Pages formelles/Pages d'erreur/403-forbidden.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Pages formelles/Pages d'erreur/405-method_not_allowed.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Pages formelles/Pages d'erreur/500-internal_server_error.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Pages formelles/Pages d'erreur/505-http_version_not_supported.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Pages formelles/Pages d'erreur/400-bad_request.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Pages formelles/Pages d'erreur/301-moved_permanently.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Etudiants/camille_guillaud.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Etudiants/camille_ragnaud.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Etudiants/floriane_grosset.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Etudiants/jeanne_dubois.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Etudiants/lola_jacrot.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Etudiants/mailis_breton.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Etudiants/mathilde_Benett.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Etudiants/mathilde_bennett.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Etudiants/melusine_caillau.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Etudiants/woorim_moon.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Traces/projets/trajets_poche.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Traces/projets/reveries.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Traces/projets/parcours_visuel.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Traces/projets/empreintes_chou.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Traces/projets/ombres.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Traces/galerie/1.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Traces/galerie/2.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Traces/galerie/3.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Traces/galerie/4.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Traces/galerie/5.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Traces/beginning.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Organique/organique.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Organique/Projets/a_travers.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Organique/Projets/arbrologie.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Organique/Projets/cellules_de_mort.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Organique/Projets/ecorche.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Organique/Projets/lun_dans_lautre.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Organique/Projets/phaeophyceae.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Expositions/Organique/Projets/racines.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Archives/archives.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Pages formelles/casier.php",
+		"/Users/maxime/Desktop/LeCasier9/Galerie Web/Site en PHP/Pages formelles/index.php",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/etudiants/css/test2.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/travaux/css/test2.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/css/test2.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/organique.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/end/about.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/travaux/ecorche.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/travaux/phaeophyceae.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/travaux/racines.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/travaux/cellules_de_mort.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/travaux/a_travers.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/external_link.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/end/index.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/end/casier.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/etudiants/melusine_caillau.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/etudiants/woorim_moon.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/etudiants/mailis_breton.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/5.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/etudiants/mathilde_Benett.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/1.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/3.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/7.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/6.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/4.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/2.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/2-floriane.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/end/404-not_found.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/end/attention detail/organique.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/page-bennett.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/page-moon.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/page-mailis.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/page-guillaud.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/page-dubois.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/page-caillaut.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/travaux/cellules de mort.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/css/test2.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/error/css/test2.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/etudiants/Benett.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/error/error.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Organique/pages/page-benett.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/index2.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site2/css/global.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/expo_debut.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/travaux.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/external_link.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/archives.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/galerie.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/global.css",
+		"/Volumes/NO NAME/Gris multitude de couleurs/gris moyens-couleur.psd",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/stanca.jpg",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/test.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/blog.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/casier.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/construction.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/etudiant.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/test2.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/galerie_etudiante.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/machin1.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/travail1.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/page1.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/archives.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/about.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/css/about.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site2/vues/menu.php",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site2/index.php",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site2/css/about.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site2/vues/menu_galerie.php",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site2/css/welcome.css",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site2/vues/welcome.php",
+		"/Users/maxime/Downloads/nba-master/config/routes.php",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site2/vues/casier.php",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site2/css/expo_debut.css",
+		"/Applications/MAMP/logs/php_error.log",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site2/vues/galerie_etudiante.php",
+		"/Users/maxime/Downloads/nba-master/public/index.php",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site2/vues/menu_casier.php",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site2/casier.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/error/505-http_version_not_supported.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/error/500-internal_server_error.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/error/405-method_not_allowed.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/error/403-forbidden.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/error/402-payment_required.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/error/401-authorization_required.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/error/400-bad_request.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/error/302-moved_permanently.html",
+		"/Users/maxime/Desktop/Le Casier 9/Html/Site/error/301-moved_permanently.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/maxime/Sites/Promeeting/",
+			"/Users/maxime/Sites/Promeeting/modules/",
+			"/Users/maxime/Sites/Promeeting/api/",
+			"/Users/maxime/Sites/Promeeting/",
+			"/Users/maxime/Sites/Promeeting/public/js/",
+			"/Users/maxime/Sites/Promeeting/api/",
+			"/Users/maxime/Sites/Promeeting",
+			"/Users/maxime/Sites/start_page",
+			"/Users/maxime/Sites/Promeeting",
+			"/Users/maxime/Sites/start_page",
+			"/Users/maxime/Sites/Promeeting",
+			"/Users/maxime/Sites/start_page",
+			"/Users/maxime/Sites/Promeeting",
+			"/Users/maxime/Sites/Promeeting, *.php",
+			"/Users/maxime/Sites/Promeeting",
+			"/Users/maxime/Sites/Promeeting, *.php",
+			"/Users/maxime/Sites/Promeeting, *.js",
+			"/Users/maxime/Sites/Promeeting, *.php",
+			"/Users/maxime/Sites/Promeeting",
+			"/Users/maxime/Sites/Promeeting, *.php, *.js",
+			"/Users/maxime/Sites/Promeeting, *.php",
+			"/Users/maxime/Sites/Promeeting"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"art",
+			"<br />",
+			"<br/>",
+			"<?",
+			"String",
+			"Element",
+			"hasOwn",
+			"namespace",
+			"Core",
+			"ctn",
+			"ui-wi",
+			"spinner",
+			"theme",
+			"spinner",
+			"interval",
+			"text_custom_folder_options",
+			"bind",
+			"folderTemp",
+			"bubblingG",
+			"bubblingG_1",
+			".bubblingG",
+			"clea",
+			"searchRandomPic",
+			"hasFolder",
+			"customFolder",
+			"container",
+			"interval",
+			"\\n\\r",
+			"RewriteEngine On",
+			"i18n",
+			"Library",
+			"$bdd",
+			"contenue = \"\"'",
+			"nomPieceJointe",
+			"fichier",
+			"cheminFichier",
+			"reper",
+			"FichierAssocie",
+			"contreValidationAction_v",
+			"management_identificationOuverture_v",
+			"idCreateur",
+			"resultatRechercheFichierToUpload_Script.php",
+			"resultatRechercheFichier.php",
+			"target",
+			"affCkeditor",
+			"goTo",
+			"videCkeditor",
+			"resultatRechercheFichier.php",
+			"foreach(",
+			"for(",
+			"if(",
+			"canCl",
+			"+",
+			"\"",
+			" goTo",
+			"\"",
+			"uploadFichier_Script.php",
+			"reunionUploadFile_Script.php",
+			"\"",
+			"verifieNomProjet.php",
+			"uploadLogo_Script.php",
+			"\"",
+			"scheduleNextMeeting_script.php",
+			"saveDureeTotalReunon_Script.php",
+			"redire",
+			"suppLogo_Script.php",
+			"reunion_script.php",
+			"for(",
+			"if(",
+			"parametreReunion_Script.php",
+			"\"",
+			"ouvrirFichierInterne_Script.php",
+			"listeGroupe.php",
+			"impressionODJ.php",
+			"\"",
+			"gestionGroupe",
+			"gestionGroupe_Form.php",
+			"impressionODJ.php",
+			"imprimerReunion.php",
+			"imprimerReunion",
+			"rechercheODJ",
+			"rechercheProjet",
+			"scheduleNextMeeting_view.phtml",
+			"reunionSuite",
+			"reunionSuite_Form.php",
+			"reunion_Form.php",
+			"rechercheReunion_Form.php",
+			"rechercheFichier_Form.php",
+			"parametreReunion_Form.phtml",
+			"ouvrirReunion_Form.php",
+			"ouvrirFichierInterne_Form.php",
+			"nouveauProjet_Form.php",
+			"gestionLogo_Form.php",
+			"gestionIntervenants_Form.php",
+			"gestionGroupe_Form.php",
+			"envoieMail_Form.php",
+			"\"",
+			"redire",
+			"nouveauProjet_Script.php",
+			"fileUploadForm",
+			"ajouterCategorieFunction",
+			"addReferentForm",
+			"ajouterParticipants",
+			"\"",
+			"affCache",
+			"\"",
+			"modifierBloc_Script.php",
+			"\"",
+			"getCategorieRechercheReunion.php",
+			"gestionIntervenants_Script.php",
+			"for(",
+			"if(",
+			"gestionLogo_Script.php",
+			"gestionGroupe_Script.php",
+			"redire",
+			"\"",
+			"redire",
+			"$idE",
+			"\"",
+			"envoieMail_Script.php",
+			"download.php",
+			"\"",
+			"ajax",
+			"creerGroupe_Script.php",
+			"ajouterInformationComplementaire_Scritp.php",
+			"afficheDescription.php",
+			"parametreReunion_Form.php",
+			"afficheChoixDesCategories"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"diapo_suffle_loading_anim",
+			"ctn",
+			"\\n",
+			"foreach (",
+			"for (",
+			"if (",
+			" + ",
+			"'",
+			"for (",
+			"if (",
+			"'",
+			"for (",
+			"if (",
+			"'",
+			"for (",
+			"if (",
+			"'",
+			"if (",
+			"'",
+			"if (",
+			"'",
+			"if (",
+			"'",
+			" === ",
+			"'",
+			"while (",
+			"for (",
+			"if (",
+			"'",
+			"foreach (",
+			"while (",
+			"for (",
+			"if (",
+			"while (",
+			"if (",
+			"ganttGlobals.coordMouseClicked",
+			"ganttGlobals.blocSelect",
+			"ganttGlobals.idBlocMouseOver",
+			"ganttGlobals.buttonClickedMouse",
+			"ganttGlobals.y_mouse",
+			"ganttGlobals.x_mouse",
+			"ganttGlobals.tabStatutFilterStatut",
+			"ganttGlobals.tabIdMeetingTypeFilterMeetingType",
+			"ganttGlobals.tabIdBlocFoundFilterKeyWord",
+			"ganttGlobals.tabIdCategoryFilterCategory",
+			"ganttGlobals.blocMouseOver",
+			"ganttGlobals.blocSelect",
+			"ganttGlobals.idBlocMouseOver",
+			"ganttGlobals.y_mouse",
+			"ganttGlobals.x_mouse",
+			"ganttGlobals.dateChosen",
+			"ganttGlobals.MANAGE_ACTION",
+			"ganttGlobals.DEFAULT_GANT_HEIGHT",
+			"ganttGlobals.DEFAULT_GANT_WIDTH",
+			"ganttGlobals.DEGRE_GRADIANT",
+			"ganttGlobals.DEFAULT_STEP_GRID_YEAR",
+			"ganttGlobals.DEFAULT_STEP_GRID_MONTH",
+			"ganttGlobals.DEFAULT_STEP_GRID_WEEK",
+			"ganttGlobals.DATE_LINE_POS",
+			"ganttGlobals.MAIN_DATE_LINE_POS",
+			"ganttGlobals.ATTR_HIGHLIGHT_TODAY_DATE_TIMELINE",
+			"ganttGlobals.ATTR_DATE_TIMELINE",
+			"ganttGlobals.TAB_MONTH_FR",
+			"ganttGlobals.TAB_DAY_FR",
+			"ganttGlobals.BLOC_CANCELED",
+			"ganttGlobals.BLOC_FINISHED",
+			"ganttGlobals.BLOC_IN_VERY_LATE",
+			"ganttGlobals.BLOC_IN_LATE",
+			"ganttGlobals.BLOC_IN_PROGRESS",
+			"ganttGlobals.EXTRA_WIDTH_BLOC",
+			"ganttGlobals.BLOC_Y_GRID",
+			"ganttGlobals.MIN_WIDTH_BLOC",
+			"ganttGlobals.HEIGHT_BLOC",
+			"ganttGlobals.PADDING_RIGHT_NAME_CONTRIBUTOR",
+			"ganttGlobals.PADDING_LEFT_NAME_CONTRIBUTOR",
+			"ganttGlobals.ATTR_HIGHLIGHT_TODAY_GRID",
+			"ganttGlobals.ATTR_GRID",
+			"ganttGlobals.MAX_WIDTH_NAME_CONTRIBUTOR",
+			"ganttGlobals.CURSOR",
+			"ganttGlobals.INITIAL_POS_Y",
+			"ganttGlobals.INITIAL_POS_X",
+			"ganttGlobals.TYPE_ANIMATION",
+			"ganttGlobals.TIME_ANIMATION",
+			":",
+			"'",
+			"editScheduledNextMeeting",
+			"editNextMeeting.idMeeting",
+			"referentActionName",
+			"meetingObject",
+			"projectName",
+			"contributorActionName",
+			"contributorActionCollection",
+			"manageAction.",
+			"_config",
+			"idUser",
+			"$j.trim",
+			"objet",
+			"$sectionOpen"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.940405244338,
+			0.970202622169,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.jslint_result_view":
+	{
+		"height": 207.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"scree",
+				"public/css/sass/screen.scss"
+			],
+			[
+				"diapo",
+				"public/css/view/diapoShuffle.css"
+			],
+			[
+				"jquery",
+				"public/js/vendors/jquery-ui/jquery-ui.css"
+			],
+			[
+				"dia",
+				"public/css/sass/view/diapoShuffle.scss"
+			],
+			[
+				"scre",
+				"public/css/sass/screen.scss"
+			],
+			[
+				"screen",
+				"public/css/sass/screen.scss"
+			],
+			[
+				"diap",
+				"public/js/view/diapoShuffle.js"
+			],
+			[
+				"error",
+				"log/php/php_error.log"
+			],
+			[
+				"",
+				"public/css/sass/_diapoShuffle.scss"
+			],
+			[
+				"index",
+				"public/index.php"
+			],
+			[
+				"lint",
+				"diapoShuffle/script/lint"
+			],
+			[
+				"rou",
+				"config/routes.php"
+			],
+			[
+				"config",
+				"config/config.inc.php-dist"
+			],
+			[
+				"route",
+				"config/routes.php"
+			],
+			[
+				"loca",
+				"config/local.inc.php"
+			],
+			[
+				"local",
+				"config/local.inc.php-dist"
+			],
+			[
+				"add",
+				"api/script/addBloc_script.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"searchp",
+				"api/script/searchProjectToUploadFile_html.phtml"
+			],
+			[
+				"meetin",
+				"public/js/meeting.js"
+			],
+			[
+				"bdd",
+				"bdd/bdd.sql"
+			],
+			[
+				"uploadfile",
+				"api/script/uploadFileDocBase_script.php"
+			],
+			[
+				"upload",
+				"api/script/uploadFileMeeting_json.php"
+			],
+			[
+				"search",
+				"api/script/searchFileResult_html.phtml"
+			],
+			[
+				"prom",
+				"Promeeting/promeeting.php"
+			],
+			[
+				"delete",
+				"api/script/deleteContributorGroup_script.php"
+			],
+			[
+				"uploadfiledocbase_script",
+				"api/script/uploadFileDocBase_script.php"
+			],
+			[
+				"searchfil",
+				"api/script/searchFileToUploadResult_html.phtml"
+			],
+			[
+				"manageac",
+				"public/js/manageAction.js"
+			],
+			[
+				"identificat",
+				"modules/pmp/script/identificationOuverture_Script.php"
+			],
+			[
+				"uploadfilemeeting_json.php",
+				"api/script/uploadFileMeeting_json.php"
+			],
+			[
+				"meeting",
+				"api/view/meeting_view.phtml"
+			],
+			[
+				"reunion",
+				"Promeeting/js/reunion.js"
+			],
+			[
+				"recherchere",
+				"Promeeting/js/rechercheReunion_Form.js"
+			],
+			[
+				"uploadfilemeeting_js",
+				"api/script/uploadFileMeeting_json.php"
+			],
+			[
+				"reunionuploadfile_script.php",
+				"Promeeting/Sections/reunionUploadFile_Script.php"
+			],
+			[
+				"checkprojectname_script",
+				"api/script/checkProjectName_script.php"
+			],
+			[
+				"deletef",
+				"api/script/deleteFirmLogo_script.php"
+			],
+			[
+				"uploadfirmlogo_script",
+				"api/script/uploadFirmLogo_script.php"
+			],
+			[
+				"addschedulenextmeeting_s",
+				"api/script/addScheduleNextMeeting_script.php"
+			],
+			[
+				"updatemeetingduration_script",
+				"api/script/updateMeetingDuration_script.php"
+			],
+			[
+				"suppl",
+				"Promeeting/Sections/suppLogo_Script.php"
+			],
+			[
+				"ouvrirfi",
+				"Promeeting/Sections/ouvrirFichierInterne_Script.php"
+			],
+			[
+				"managemeetingc",
+				"api/script/manageMeetingContributor_script.php"
+			],
+			[
+				"manageme",
+				"api/view/manageMeetingContributor_view.phtml"
+			],
+			[
+				"getcontr",
+				"api/script/getContributorGroup_html.phtml"
+			],
+			[
+				"print",
+				"api/script/printScheduleNextMeeting_html.phtml"
+			],
+			[
+				"managec",
+				"api/script/manageContributorGroup_html.phtml"
+			],
+			[
+				"gestiongroupe_form.php",
+				"Promeeting/Sections/gestionGroupe_Form.php"
+			],
+			[
+				"reunionsuite.p",
+				"Promeeting/Sections/reunionSuite_Form.php"
+			],
+			[
+				"nouvea",
+				"Promeeting/js/nouveauProjet_Form.js"
+			],
+			[
+				"addpr",
+				"api/script/addProject_script.php"
+			],
+			[
+				"nouveauprojet_script.php",
+				"Promeeting/Sections/nouveauProjet_Script.php"
+			],
+			[
+				"ouvrir",
+				"Promeeting/js/ouvrirReunion.js"
+			],
+			[
+				"modifer",
+				"Promeeting/Sections/modifierBloc_Script.php"
+			],
+			[
+				"manag",
+				"public/js/manageAction.js"
+			],
+			[
+				"get",
+				"Promeeting/Sections/getCategorieRechercheReunion.php"
+			],
+			[
+				"getpro",
+				"api/script/getProjectCategory_html.phtml"
+			],
+			[
+				"managemeeting",
+				"api/script/manageMeetingContributor_script.php"
+			],
+			[
+				"dele",
+				"api/script/deleteContributorGroup_script.php"
+			],
+			[
+				"del",
+				"Library/tcpdf/fonts/dejavusansextralight.z"
+			],
+			[
+				"send",
+				"api/script/sendMeetingOrSchedulingByMail_script.php"
+			],
+			[
+				"sendme",
+				"api/script/sendMeetingOrSchedulingByMail_script.php"
+			],
+			[
+				"nouve",
+				"Promeeting/js/nouveauProjet_Form.js"
+			],
+			[
+				"manage",
+				"public/js/manageAction.js"
+			],
+			[
+				"addcontr",
+				"api/script/addContributorGroup_html.php"
+			],
+			[
+				"gestioninter",
+				"Promeeting/js/gestionIntervenants_Form.js"
+			],
+			[
+				"param",
+				"Promeeting/Sections/parametreReunion_Form.php"
+			],
+			[
+				"nouveau",
+				"Promeeting/js/nouveauProjet_Form.js"
+			],
+			[
+				"addmee",
+				"api/script/addMeetingType_html.php"
+			],
+			[
+				"apiscrip",
+				"api/script/addBloc_script.php"
+			],
+			[
+				"gant",
+				"public/js/gant.class.js"
+			],
+			[
+				"gant.cl",
+				"api/class/gant.class.php"
+			],
+			[
+				"ga",
+				"public/js/gant.event.js"
+			],
+			[
+				"gant.mo",
+				"api/script/gant.moteur_script.php"
+			],
+			[
+				"gant.",
+				"public/js/gant.class.js"
+			],
+			[
+				"log",
+				"inc/logOut.php"
+			],
+			[
+				"check",
+				"inc/checkAuth.php"
+			],
+			[
+				"identifc",
+				"identification_Script.php"
+			],
+			[
+				"menu",
+				"modules/management/menu/menu.phtml"
+			],
+			[
+				"static",
+				"static/header.phtml"
+			],
+			[
+				"che",
+				"inc/checkAuth.php"
+			],
+			[
+				"decon",
+				"deconnexion.php"
+			],
+			[
+				"identif",
+				"modules/management/view/identificationOuverture_Form.phtml"
+			],
+			[
+				"ident",
+				"modules/management/script/identificationOuverture_Script.php"
+			],
+			[
+				"identific",
+				"modules/management/script/identificationOuverture_Script.php"
+			],
+			[
+				"save",
+				"api/script/saveCustomAlert_script.php"
+			],
+			[
+				"manamen",
+				"modules/management/view/menu.phtml"
+			],
+			[
+				"iden",
+				"identification_Script.php"
+			],
+			[
+				"pubinde",
+				"public/index.php"
+			],
+			[
+				"rout",
+				"config/routes.php"
+			],
+			[
+				"actionavalider_form.js",
+				"Management/js/actionAValider_Form.js"
+			],
+			[
+				"mainde",
+				"Management/index.php"
+			],
+			[
+				"manain",
+				"Management/index.php"
+			],
+			[
+				"searchpro",
+				"api/script/searchProjectManageActionResult_html.phtml"
+			],
+			[
+				"pubind",
+				"public/index.php"
+			],
+			[
+				"searchpr",
+				"api/script/searchProjectGanttResult_html.phtml"
+			],
+			[
+				"searc",
+				"api/view/searchProjectGantt_view.phtml"
+			],
+			[
+				"alertepa",
+				"Management/js/alerteParam_Form.js"
+			],
+			[
+				"getp",
+				"api/script/getProjectCategory_html.phtml"
+			],
+			[
+				"supp",
+				"Management/Sections/suppAlerte.php"
+			],
+			[
+				"getprojectcategory",
+				"api/script/getProjectCategory_html.php"
+			],
+			[
+				"logalerte_form.php",
+				"Management/Sections/logAlerte_Form.php"
+			],
+			[
+				"edit",
+				"api/script/editScheduledNextMeeting_json.php"
+			],
+			[
+				"mana",
+				"api/script/manageAction_script.php"
+			],
+			[
+				"mang",
+				"api/script/manageAction_script.php"
+			],
+			[
+				"getstatisticcontributor_json",
+				"Management/Sections/getStatisticContributor_Json.php"
+			],
+			[
+				"geti",
+				"api/script/getInfoBloc_xml.php"
+			],
+			[
+				"gantk",
+				"api/script/gantFilterKeyWord_xml.php"
+			],
+			[
+				"gantfilterkeyword_xml",
+				"Management/Sections/gantFilterKeyWord_Xml.php"
+			],
+			[
+				"contre",
+				"api/view/contreValidation_view.phtml"
+			],
+			[
+				"editb",
+				"api/script/editBloc_script.php"
+			],
+			[
+				"custom",
+				"api/view/customAlert_view.phtml"
+			],
+			[
+				"getcat",
+				"Management/Sections/getCategorie.php"
+			],
+			[
+				"sup",
+				"Management/Sections/suppAlerte.php"
+			],
+			[
+				"sav",
+				"api/script/saveCustomAlert_script.php"
+			],
+			[
+				"pub",
+				"public/index.php"
+			],
+			[
+				"can",
+				"api/script/cancelBloc_script.php"
+			],
+			[
+				"pubin",
+				"public/index.php"
+			],
+			[
+				"addblo",
+				"api/script/addBloc_script.php"
+			],
+			[
+				"gant.m",
+				"Management/Sections/gant.moteur.php"
+			],
+			[
+				"gant.php",
+				"Management/Sections/gant.php"
+			],
+			[
+				"getcont",
+				"api/script/getContentBloc_html.phtml"
+			],
+			[
+				"man",
+				"Admin/api/view/manageMeeting_result.phtml"
+			],
+			[
+				"publiinde",
+				"public/index.php"
+			],
+			[
+				"getcontentbloc_html",
+				"Management/Sections/getContentBloc_Html.php"
+			],
+			[
+				"ro",
+				"config/routes.php"
+			],
+			[
+				"managem",
+				"Admin/api/view/manageMeeting_result.phtml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true
+}
