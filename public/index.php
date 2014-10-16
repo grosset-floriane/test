@@ -31,7 +31,7 @@ function redirect ($url)
 $_routes = array(
     'welcome' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Le Casier 9',
         'assets' => array(
             'css' => array(
                 'welcome',
@@ -43,7 +43,7 @@ $_routes = array(
 
     'galerie' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Sommaire',
         'assets' => array(
             'css' => array(
                 'sommaire'
@@ -55,7 +55,7 @@ $_routes = array(
 
     'casier' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Casier itinérant',
         'assets' => array(
             'css' => array(
                 'casier'
@@ -67,7 +67,7 @@ $_routes = array(
 
     'about' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'A propos',
         'assets' => array(
             'css' => array(
                 'about'
@@ -79,7 +79,7 @@ $_routes = array(
 
     'external_link' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Liens externes',
         'assets' => array(
             'css' => array(
                 'external_link'
@@ -91,7 +91,7 @@ $_routes = array(
 
     'contact' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Contact',
         'assets' => array(
             'css' => array(
                 'contact'
@@ -103,7 +103,7 @@ $_routes = array(
 
     'archives' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Archives',
         'assets' => array(
             'css' => array(
                 'archives'
@@ -126,7 +126,7 @@ $_routes = array(
 
     'camille_guillaud' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Camille Guillaud',
         'assets' => array(
             'css' => array(
                 ''
@@ -138,7 +138,7 @@ $_routes = array(
 
     'lola_jacrot' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Lola Jacrot',
         'assets' => array(
             'css' => array(
                 ''
@@ -150,7 +150,7 @@ $_routes = array(
 
     'camille_ragnaud' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Camille Ragnaud',
         'assets' => array(
             'css' => array(
                 ''
@@ -162,7 +162,7 @@ $_routes = array(
 
     'woorim_moon' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Woorim Moon',
         'assets' => array(
             'css' => array(
                 ''
@@ -174,7 +174,7 @@ $_routes = array(
 
     'melusine_caillaud' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Mélusine Caillaud',
         'assets' => array(
             'css' => array(
                 ''
@@ -186,7 +186,7 @@ $_routes = array(
 
     'jeanne_dubois' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Jeanne Dubois-Pacquet',
         'assets' => array(
             'css' => array(
                 ''
@@ -196,9 +196,9 @@ $_routes = array(
         'menu' => '',
         ),
 
-    'mailis_breton' => array(
+    'maylis_breton' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Maylis Breton',
         'assets' => array(
             'css' => array(
                 ''
@@ -210,7 +210,7 @@ $_routes = array(
 
     'floriane_grosset' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Floriane Grosset',
         'assets' => array(
             'css' => array(
                 ''
@@ -222,7 +222,7 @@ $_routes = array(
 
     'mathilde_bennett' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Mathilde Bennett',
         'assets' => array(
             'css' => array(
                 ''
@@ -238,9 +238,45 @@ $_routes = array(
 
 
 
-    '' => array(
+    'reveries' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Rêveries',
+        'assets' => array(
+            'css' => array(
+                ''
+            ),
+        ),
+        'path' => '/vues/reveries.php',
+        'menu' => '',
+        ),
+
+    'chou' => array(
+        'isView' => true,
+        'title' => 'Empreintes de chou rouge',
+        'assets' => array(
+            'css' => array(
+                ''
+            ),
+        ),
+        'path' => '/vues/chou.php',
+        'menu' => '',
+        ),
+
+    'ombres' => array(
+        'isView' => true,
+        'title' => 'Ombres',
+        'assets' => array(
+            'css' => array(
+                ''
+            ),
+        ),
+        'path' => '/vues/ombres.php',
+        'menu' => '',
+        ),
+
+    'trajets' => array(
+        'isView' => true,
+        'title' => 'Trajets de poche',
         'assets' => array(
             'css' => array(
                 ''
@@ -250,147 +286,99 @@ $_routes = array(
         'menu' => '',
         ),
 
-    '' => array(
+    'parcours' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Parcours visuel',
         'assets' => array(
             'css' => array(
                 ''
             ),
         ),
-        'path' => '/vues/.php',
+        'path' => '/vues/parcours.php',
         'menu' => '',
         ),
 
-    '' => array(
+    'cellules' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Cellules de mort',
         'assets' => array(
             'css' => array(
                 ''
             ),
         ),
-        'path' => '/vues/.php',
+        'path' => '/vues/cellules.php',
         'menu' => '',
         ),
 
-    '' => array(
+    'ecorche' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Ecorché',
         'assets' => array(
             'css' => array(
                 ''
             ),
         ),
-        'path' => '/vues/.php',
+        'path' => '/vues/ecorche.php',
         'menu' => '',
         ),
 
-    '' => array(
+    'racines' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Racines',
         'assets' => array(
             'css' => array(
                 ''
             ),
         ),
-        'path' => '/vues/.php',
+        'path' => '/vues/racines.php',
         'menu' => '',
         ),
 
-    '' => array(
+    'phaeophyceae' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Phaeophyceae',
         'assets' => array(
             'css' => array(
                 ''
             ),
         ),
-        'path' => '/vues/.php',
+        'path' => '/vues/phaeophyceae.php',
         'menu' => '',
         ),
 
-    '' => array(
+    'a_travers' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'A travers',
         'assets' => array(
             'css' => array(
                 ''
             ),
         ),
-        'path' => '/vues/.php',
+        'path' => '/vues/a_travers.php',
         'menu' => '',
         ),
 
-    '' => array(
+    'arbrologie' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'Arbrologie',
         'assets' => array(
             'css' => array(
                 ''
             ),
         ),
-        'path' => '/vues/.php',
+        'path' => '/vues/arbrologie.php',
         'menu' => '',
         ),
 
-    '' => array(
+    'un_autre' => array(
         'isView' => true,
-        'title' => '',
+        'title' => 'L\'un dans l\'autre',
         'assets' => array(
             'css' => array(
                 ''
             ),
         ),
-        'path' => '/vues/.php',
-        'menu' => '',
-        ),
-
-    '' => array(
-        'isView' => true,
-        'title' => '',
-        'assets' => array(
-            'css' => array(
-                ''
-            ),
-        ),
-        'path' => '/vues/.php',
-        'menu' => '',
-        ),
-
-    '' => array(
-        'isView' => true,
-        'title' => '',
-        'assets' => array(
-            'css' => array(
-                ''
-            ),
-        ),
-        'path' => '/vues/.php',
-        'menu' => '',
-        ),
-
-    '' => array(
-        'isView' => true,
-        'title' => '',
-        'assets' => array(
-            'css' => array(
-                ''
-            ),
-        ),
-        'path' => '/vues/.php',
-        'menu' => '',
-        ),
-
-    '' => array(
-        'isView' => true,
-        'title' => '',
-        'assets' => array(
-            'css' => array(
-                ''
-            ),
-        ),
-        'path' => '/vues/.php',
+        'path' => '/vues/un_autre.php',
         'menu' => '',
         ),
 
